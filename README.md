@@ -54,4 +54,14 @@ For full content, follow the "source repository" links above.
 
 ---
 
+## 许可 · License
+
+本仓库的目录、说明与元数据文件以 MIT License 发布，见 [LICENSE](LICENSE)。
+The catalog, notes and metadata files in this repository are released under the MIT License — see [LICENSE](LICENSE).
+
+各上游项目的内容仍归其原作者所有，许可证以各自仓库为准；本仓库不对其重新授权。
+Upstream projects remain under their own authors and licenses; this repository does not relicense them.
+
+---
+
 <sub>Generated 2026-08-28 · w1977-0 · personal archive index</sub>
